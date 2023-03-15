@@ -1,0 +1,3 @@
+steps\LoginStepDefinition.class
+runners\LoginRunner.class
+steps\SomeClass.class
